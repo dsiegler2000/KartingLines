@@ -1,0 +1,7 @@
+# ignore venv and logs
+venv/
+src/logs/
+.idea/
+__pycache__/
+
+.DS_Store
